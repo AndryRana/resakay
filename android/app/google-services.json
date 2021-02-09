@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588348170085",
+    "project_id": "resakay-80f84",
+    "storage_bucket": "resakay-80f84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588348170085:android:4723f589a8b15b35930b8c",
+        "android_client_info": {
+          "package_name": "com.example.resakay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588348170085-c2gvp1t48hon7kn3t9p2ikn0ilmndffg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEYLv5xWz1JvFZk2NptvwvyOrUEF8_mw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588348170085-c2gvp1t48hon7kn3t9p2ikn0ilmndffg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
